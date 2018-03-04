@@ -1,4 +1,7 @@
 {
+  "alias": [
+    "ssp-webhooks.now.sh"
+  ],
   "env": {
     "CONTENTFUL_ID": "@contentful-id",
     "CONTENTFUL_TOKEN": "@contentful-access-token",
