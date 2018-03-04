@@ -1,0 +1,8 @@
+{
+  "env": {
+    "CONTENTFUL_ID": "@contentful-id",
+    "CONTENTFUL_TOKEN": "@contentful-access-token",
+    "ALGOLIA_ID": "@algolia-id",
+    "ALGOLIA_TOKEN": "@algolia-access-token"
+  }
+}

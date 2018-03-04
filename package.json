@@ -1,0 +1,32 @@
+{
+  "name": "webhooks",
+  "version": "0.0.1",
+  "description": "Webhook server for SSP",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/startupstockphotos/webhooks.git"
+  },
+  "author": "estrattonbailey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/startupstockphotos/webhooks/issues"
+  },
+  "homepage": "https://github.com/startupstockphotos/webhooks#readme",
+  "dependencies": {
+    "algoliasearch": "^3.24.11",
+    "body-parser": "^1.18.2",
+    "chalk": "^2.3.2",
+    "connect": "^3.6.6",
+    "contentful": "^5.1.3",
+    "cors": "^2.8.4",
+    "helmet": "^3.11.0",
+    "nodemon": "^1.15.1",
+    "now-env": "^3.0.3",
+    "router": "^1.3.2"
+  }
+}
